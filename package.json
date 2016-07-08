@@ -1,6 +1,6 @@
 {
   "name": "call_module_with_config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "call_module_with_config",
   "main": "index.js",
   "dependencies": {
